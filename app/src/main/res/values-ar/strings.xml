@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SubmitMovCatUiUx</string>
+    <string name="action_settings">إعدادات</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">الان العب</string>
+    <string name="upcoming">القادمة</string>
+    <string name="search">البحث عن الفيلم</string>
+    <string name="home">الصفحة الأولى</string>
+    <string name="proses">يرجى الانتظار</string>
+    <string name="pesan">ونحن نطلب إلى الخادم، يرجى التحلي بالصبر</string>
+    <string name="pesan_error">أخفق استرداد بيانات الفيلم</string>
+    <string name="change_lang">تغيير إعدادات اللغة</string>
+    <string name="about">\nاللغات المتوفرة:
+1. الإنجليزية\n
+2 - باهاسا إندونيسيا\n
+3. العربية\n
+4. الأردية\n
+5 - الصين\n</string>
+    <string name="favorite">My Favorite</string>
+    <string name="test_baca">My Favorite</string>
+</resources>

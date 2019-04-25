@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SubmitMovCatUiUx</string>
+    <string name="action_settings">إعدادات</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">اب کھیل رہا ہے</string>
+    <string name="upcoming">آئندہ</string>
+    <string name="search">تلاش کی فلم</string>
+    <string name="home">سامنے کا صفحہ</string>
+    <string name="proses">براہ مہربانی انتظار کریں</string>
+    <string name="pesan">ہم سرور سے درخواست کر رہے ہیں، براہ کرم صبر کریں</string>
+    <string name="pesan_error">مووی ڈیٹا حاصل کرنے میں ناکامی</string>
+    <string name="change_lang">زبان کی ترتیبات کو تبدیل کریں</string>
+    <string name="about">دستیاب زبانوں:\n
+\n1. انگریزی
+\n2. انڈونیشیا
+3. عربی\n
+4. اردو\n
+5. چین</string>
+    <string name="favorite">My Favorite</string>
+    <string name="test_baca">My Favorite</string>
+</resources>

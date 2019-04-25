@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <!--<item-->
+        <!--android:id="@+id/nav_item_home"-->
+        <!--android:icon="@drawable/ic_home_black_24dp"-->
+        <!--android:title="@string/home" />-->
+    <item
+        android:id="@+id/nav_item_now"
+        android:icon="@drawable/ic_now_movies_black_24dp"
+        android:title="@string/now_playing" />
+    <item
+        android:id="@+id/nav_item_upcoming"
+        android:icon="@drawable/ic_upcoming_movies_black_24dp"
+        android:title="@string/upcoming" />
+    <item
+        android:id="@+id/action_baca"
+        android:title="@string/test_baca"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        ></item>
+    <item
+        android:id="@+id/nav_item_search"
+        android:icon="@drawable/ic_search_movies_black_24dp"
+        android:title="@string/search" />
+    <item
+        android:id="@+id/action_change_lang"
+        android:title="@string/change_lang"
+        android:icon="@drawable/ic_language_black_24dp"></item>
+
+
+    <!--<item-->
+        <!--android:id="@+id/nav_notif"-->
+        <!--android:title="@string/setup_notif"-->
+        <!--android:icon="@drawable/ic_add_alarm_black_24dp"-->
+        <!--&gt;</item>-->
+</menu>
